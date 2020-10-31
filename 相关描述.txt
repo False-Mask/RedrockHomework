@@ -1,0 +1,8 @@
+Arm1 - Arm4 为武器目录
+SmallPart 本来是准备引入很多函数的但是由于时间仓促 只打了一个延时函数
+Character为角色类
+Monster为怪物类
+Level1为主类
+
+
+最后谢谢观看 幸苦了
